@@ -16,5 +16,5 @@ Introduction to Open Source Projects
 - [CPPCSki](https://github.com/CPPCSki)
 - [Alininin](https://github.com/Alininin)
 - [L-y-MAX](https://github.com/L-y-MAX)
-- []()
+- [L-y-MAX](https://github.com/L-y-MAX)
 - []()
