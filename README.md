@@ -14,7 +14,7 @@ Introduction to Open Source Projects
 
 - [Skixkk](https://github.com/Skixkk)
 - [CPPCSki](https://github.com/CPPCSki)
-- []()
+- [Alininin](https://github.com/Alininin)
 - []()
 - []()
 - []()
